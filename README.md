@@ -1,4 +1,4 @@
 Discord Bot Project used for testing
 
-Interpretated Languages 
+Incorporated Language(s): 
 - Python
